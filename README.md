@@ -63,11 +63,8 @@ The project will follow the following research approach:
 project/
 ├── docs/
 │   └── documentation files
-├── src/
-│   ├── main/
-│   └── test/
-├── tests/
-│   └── unit tests
+├── papers/
+│   ├── reference research papers
 └── README.md
 ```
 
